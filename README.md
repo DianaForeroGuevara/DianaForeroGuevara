@@ -4,12 +4,18 @@
 
 <img align="right" alt="Coding" width="150" src="https://img.freepik.com/vector-premium/educacion-linea_198838-299.jpg">
 
-Soy ingeniera industrial enfocada en ciencia de datos, con experiencia en análisis y visualización de información, actualmente trabajo en la industria de aceites.
+I am an industrial engineer focused on data science, with experience in information analysis and visualization, currently working in the oil industry.
 
-Mi objetivo es poder ampliar el conocimiento en Machine Learning y empoderar mis habilidades de programación en diferentes lenguajes.
+My goal is to expand my knowledge in Machine Learning and empower my programming skills in different languages.
 
-## Mis intereses
+## My Interests
 
-Me gusta mucho estudiar 📖, mantenerme saludable física y mentamente, enfrentarme a nuevos retos, pero no sin dejar atrás la vida social salir con amigos, viajar, disfrutar de una buena comida.
+I really like to study 📖, I really like to study 🏃‍♀️, face new challenges, but not without leaving social life behind, going out with friends, traveling, enjoying good food 🥘.
 
-## Contáctame
+## Contact me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/diana-lorena-forero-guevara-370aa9b6?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app">
+    <img alt="Coding" width="100" src="https://1000marcas.net/wp-content/uploads/2020/01/Logo-Linkedin.png">
+  </a>
+</p>
